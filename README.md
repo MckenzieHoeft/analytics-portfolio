@@ -35,7 +35,7 @@ Power BI, DAX
 Built a structured data model separating participant, date, and outcome tables. Implemented stable KPI logic that updates consistently under filtering and stores target values separately from measures.
 
 🔗 View Project:  
-https://github.com/MckenzieHoeft/programme-performance-dashboard
+[Programme Performance Dashboard](https://github.com/MckenzieHoeft/programme-performance-dashboard)
 
 ---
 
@@ -55,9 +55,9 @@ Python, Polars, VS Code
 
 **Results:**  
 Reduced manual checking effort and improved reporting confidence by introducing consistent validation rules before submission.
-
+  
 🔗 View Project:  
-https://github.com/MckenzieHoeft/data-validation-pipeline
+[Data Validation Pipeline](https://github.com/MckenzieHoeft/data-validation-pipeline)
 
 ---
 
@@ -74,4 +74,4 @@ https://github.com/MckenzieHoeft/data-validation-pipeline
 ## Contact
 
   
-Email: [rvhoeft@gmail.com]
+Email: [rvhoeft@gmail.com](mailto:rvhoeft@gmail.com)
