@@ -2,78 +2,52 @@
 
 ## About
 
-Kia ora, I’m Mckenzie. I’m an Insights and Performance Analyst focused on performance reporting, data validation, and turning operational data into clear insights that support decision making.
+Kia ora, I’m Mckenzie. I’m an Insights and Performance Analyst focused on turning operational data into clear insights.
 
-My background is in programme and contract reporting, where accuracy, consistency, and clarity matter. I enjoy building structured models and processes that make reporting more reliable and easier to maintain over time. I’m particularly interested in automating processes to reduce manual effort and create efficiencies in recurring reporting work.
+I work in programme and contract environments where leaders need visibility over engagement, outcomes, and delivery performance. I design dashboards and data processes that help teams understand what is happening, why it is happening, and where to focus next.
 
-This repository showcases selected projects that reflect how I approach structured modelling, automation, and performance-focused analytics.
-
+My work combines structured data modelling, performance analysis, and automation to support confident, evidence-based decision making.
 
 ---
 
 ## Portfolio Projects
 
-In this section, I highlight projects that demonstrate performance monitoring, data validation, and reporting reliability.
+### Programme Performance Dashboard (Power BI)
+
+A dimensional Power BI model built to monitor engagement, completions, and employment transitions against annual targets.
+
+The dashboard enables managers to track delivery performance in real time, assess risk against target, and identify which pathways or cohorts require attention. KPI logic is structured to remain stable under filtering, ensuring consistent and reliable performance signals.
+
+> [!IMPORTANT]  
+> 🔗 **View Project:**  
+> https://github.com/MckenzieHoeft/programme-performance-dashboard
 
 ---
 
-### 1. Programme Performance Dashboard (Power BI)
+### Data Validation Pipeline (Python)
 
-**Goal:**  
-To build a structured performance dashboard that monitors engagement, completions, and employment transitions against annual targets.
+A rule-based validation pipeline designed to improve reporting quality prior to monthly submission.
 
-**Description:**  
-This project demonstrates a dimensional Power BI model designed to ensure consistent filtering, reliable KPI calculation, and clear communication of programme performance. The dashboard includes dynamic slicers, target tracking, and progress indicators built using DAX.
+The process scopes referral data to the reporting period, applies structured validation checks, and produces a consistent error output for review. This strengthens trust in the data used for performance discussions and contract reporting.
 
-**Skills:**  
-Dimensional modelling, KPI design, DAX measures, data structuring, performance tracking.
-
-**Technology:**  
-Power BI, DAX
-
-**Results:**  
-Built a structured data model separating participant, date, and outcome tables. Implemented stable KPI logic that updates consistently under filtering and stores target values separately from measures.
-
-> [!IMPORTANT]
-> 🔗 View Project:  
-> [Programme Performance Dashboard](https://github.com/MckenzieHoeft/programme-performance-dashboard)
+> [!IMPORTANT]  
+> 🔗 **View Project:**  
+> https://github.com/MckenzieHoeft/data-validation-pipeline
 
 ---
 
-### 2. Data Validation Pipeline (Python)
+## Core Focus Areas
 
-**Goal:**  
-To improve reporting accuracy by implementing rule based validation prior to monthly submission.
-
-**Description:**  
-This project introduces a structured validation pipeline that scopes referral data to a reporting month and applies validation rules to identify structural inconsistencies. The pipeline outputs a consistent error file for review before reporting.
-
-**Skills:**  
-Data validation logic, rule based processing, automation, structured error handling.
-
-**Technology:**  
-Python, Polars, VS Code
-
-**Results:**  
-Reduced manual checking effort and improved reporting confidence by introducing consistent validation rules before submission.
-
-> [!IMPORTANT]
-🔗 View Project:  
-[Data Validation Pipeline](https://github.com/MckenzieHoeft/data-validation-pipeline)
-
----
-
-## Skills Overview
-
-- Performance Monitoring & KPI Tracking  
-- Dimensional Data Modelling  
-- DAX & Power BI Development  
-- Python Data Processing & Validation  
-- Reporting Process Improvement  
+- Performance & Outcome Analysis  
+- KPI Design & Target Tracking  
+- Decision Support Reporting  
+- Power BI & DAX  
+- Python for Data Processing  
+- Data Quality & Validation  
 
 ---
 
 ## Contact
 
-  
-Email: [rvhoeft@gmail.com](mailto:rvhoeft@gmail.com)
+Email: rvhoeft@gmail.com  
+GitHub: https://github.com/MckenzieHoeft  
